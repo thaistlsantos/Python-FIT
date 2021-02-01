@@ -1,4 +1,4 @@
-print ('Qual seu nome?')
+print ('Qual seu nome??')
 nome = input ()
 
 print ('Olá, ' + nome)
