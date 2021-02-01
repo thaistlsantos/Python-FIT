@@ -1,0 +1,10 @@
+Operadores lรณgicos
+
+6	not		`nรฃo`	(unรกrio)
+	
+7	and		`e`   	(binรกrio)
+	
+8	or		`ou`	(binรกrio)
+
+Associatividade: todos da esq -> dir
+		

@@ -1,0 +1,22 @@
+Prioridade                        Associatividade
+
+1   potência       **               dir -> esq
+	(binário)
+	
+2   negação        -                esq -> dir
+	(unário)
+	
+3   multplicação   *                esq -> dir
+    divisão        /, //, %
+	(binários)
+	
+4   soma           +                esq -> dir
+    subtração      -
+	(binários)
+
+
+     Parêntesis  ()  	-> 		priorizador
+     
+     
+    
+    = 		-> 		operador de atribuição

@@ -1,0 +1,20 @@
+Operadores relacionais (comparação)
+	- resulta em um booleano
+
+5	==	igual
+	
+	!=	diferente
+	
+	> 	maior
+	
+	>=	maior ou igual
+	
+	<	menor
+	
+	<= 	menor ou igual
+	
+	
+Prioridade: todos têm a mesma prioridade
+Associatividade: esq -> dir
+
+Todos são binários
